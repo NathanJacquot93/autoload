@@ -1,0 +1,3 @@
+index.php = invoice.php
+
+Autoload.php est a mettre dans vendor/ il faut faire quelque modif adéquat dans les deux fichier
